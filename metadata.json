@@ -1,0 +1,6 @@
+{
+  "name": "NGPM 网络协议与性能配置管理平台",
+  "description": "NGPM 网络性能与协议模型配置管理系统，支持HTTP模型、TCP定长模型、TCP字符串模型等多协议参数解析与管理",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
